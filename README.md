@@ -2,10 +2,7 @@
 <h2 align='center'> Machine Learning for Music Genre Classification</h2>
 <h3 align='center'> Project and Report </h3>
 
-<center>
-<br>Nicolas Paré  
-<br>Jonathan Boerger  
-<br>Spencer Hayes-Laverdiere 
+<center><br>Nicolas Paré <br>Jonathan Boerger <br>Spencer Hayes-Laverdiere 
 </center> 
   
 <h4> How to view</h4>
