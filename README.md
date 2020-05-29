@@ -6,7 +6,7 @@
   
 <h4> How to view</h4>
 This project was written with Notebooks. To view it, you must have Jupyter Notebooks installed which can be done
-with a simple pip command.  
+with a simple pip command:  
 
 <br><code>pip install notebook</code>
   
