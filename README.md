@@ -5,7 +5,7 @@
 <p align="center">Nicolas Paré <br>Jonathan Boerger <br>Spencer Hayes-Laverdiere</p> 
   
 <h4> How to view</h4>
-This project was written with Notebooks. To view it, you must have Jupyter Notebooks installed which can be done
+This project was written with Notebooks. The notebook is too large to be viewed directly on GitHub. To view it, you must clone the repo and  have Jupyter Notebooks installed which can be done
 with a simple pip command:  
 
 <br><code>pip install notebook</code>
