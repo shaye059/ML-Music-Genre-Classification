@@ -2,11 +2,11 @@
 <h2 align='center'> Machine Learning for Music Genre Classification</h2>
 <h3 align='center'> Project and Report </h3>
 
-<centre>
-Nicolas Paré  
-Jonathan Boerger  
-Spencer Hayes-Laverdiere 
-</centre> 
+<center>
+<br>Nicolas Paré  
+<br>Jonathan Boerger  
+<br>Spencer Hayes-Laverdiere 
+</center> 
   
 <h4> How to view</h4>
 This project was written with Notebooks. To view it, you must have Jupyter Notebooks installed which can be done
