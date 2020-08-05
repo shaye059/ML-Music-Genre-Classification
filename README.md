@@ -5,13 +5,16 @@
 <p align="center">Nicolas Paré <br>Jonathan Boerger <br>Spencer Hayes-Laverdiere</p> 
   
 <h4> How to view</h4>
-This project was written with Notebooks. The notebook is too large to be viewed directly on GitHub. To view it, you must clone the repo and  have Jupyter Notebooks installed which can be done
-with a simple pip command:  
+<h5> Method 1 - Google Colab</h5>
+Open the project in Google Colab through the following link: https://colab.research.google.com/github/shaye059/ML-Music-Genre-Classification/blob/master/main/src/Machine%20Learning%20for%20Music%20Genre%20Classification.ipynb
+
+<br><h5> Method 2 - Jupyter Notebook</h5>
+Install Jupyter Notebooks on your machine. This can be done with a simple pip command:  
 
 <br><code>pip install notebook</code>
   
   
-For alternative install instructions, please see the [Jupyter install page](https://jupyter.org/install).
+(For alternative install instructions, please see the [Jupyter install page](https://jupyter.org/install).)
   
 Once Notebooks is installed, start a command line session and open the ML-Music-Genre-Classification/main/src/ directory.
 Now enter the command
