@@ -10,9 +10,7 @@ Open the project in Google Colab through the following link: https://colab.resea
 
 <br><h5> Method 2 - Jupyter Notebook</h5>
 Install Jupyter Notebooks on your machine. This can be done with a simple pip command:  
-
 <br><code>pip install notebook</code>
-  
   
 (For alternative install instructions, please see the [Jupyter install page](https://jupyter.org/install).)
   
